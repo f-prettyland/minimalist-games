@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Liars Dice"
+title:  "Perduo / Liars Dice"
 date:   2016-10-05 20:28:30 +0100
 requires: dice
 tags: bluff
@@ -8,8 +8,11 @@ min_p: 3
 max_p: 8
 time: 20
 ---
-## The Low Down
 
+## What You Need  
+5 dice per player
+
+## The Low Down  
 Bluff about rolls
 
 ## How
