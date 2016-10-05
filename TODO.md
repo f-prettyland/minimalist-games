@@ -6,7 +6,7 @@
 		- Letters
 - [ ] Intro page
 	- [ ] Search  
-			+	[ ] Title
+			+ [ ] Title
 			+ [ ] Tags
 	- [ ] Ordering of columns
 - [ ] Games
