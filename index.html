@@ -3,21 +3,32 @@ layout: default
 ---
 
 <div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
+  <table style="width:100%">
+    <tr>
+      <th>Name</th>
+      <th>Min</th>
+      <th>Max</th>
+      <th>Requires</th>
+      <th>Time</th>
+      <th>Type</th>
+    </tr>
     {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
+      <tr>
+        <td><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a></td>
+        <td>{{ post.min_p | escape }}</td>
+        <td>{{ post.max_p | escape }}</td>
+        <td>
+        {% for requirement in post.requires %}
+          {{ requirement  | escape }}
+        {% endfor %}
+        </td>
+        <td>{{ post.time | escape }}</td>
+        <td>
+        {% for type in post.tags %}
+          {{ type  | escape }}
+        {% endfor %}
+        </td>
+      </tr>
     {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+  </table>
 </div>

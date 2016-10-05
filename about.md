@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+So I like board games, like a lot, like a lot a lot. But sometimes it can be hard to know what's good to play, and how to play them, and how you can play them without owning anything.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+So Meatspace Games tries to compile my knowledge in one place.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Enjoy.
+
+<sub>Sorry if I stole anything, let me know immediately. <sub>I just want to share the games I love.</sub></sub>
