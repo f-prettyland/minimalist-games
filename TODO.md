@@ -6,8 +6,8 @@
 		- Letters
 - [ ] Intro page
 	- [ ] Search  
-			+ [ ] Title
-			+ [ ] Tags
+		+ [ ] Title
+		+ [ ] Tags
 	- [ ] Ordering of columns
 - [ ] Games
 	+ [X] Kobayakawa
