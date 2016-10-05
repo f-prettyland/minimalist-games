@@ -31,6 +31,7 @@ The winner collects all coins bet plus one from the pool. In the 7th round (the 
 Then whoever wins the round, starts the next round.
 
 ## Example  
+
 # End of Round Sum  
 Kobayakawa: 8  
 Player A: 9  

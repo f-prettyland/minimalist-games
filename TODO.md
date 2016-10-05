@@ -12,8 +12,8 @@
 - [ ] Games
 	+ [X] Kobayakawa
 		- [X] Main rules
-	+ [ ] Liars Dice
-		- [ ] Main rules
+	+ [X] Liars Dice
+		- [X] Main rules
 	+ [ ] Spyfall
 		- [ ] Main rules
 	+ [ ] Fishbowl / Monikors / Celebrities
