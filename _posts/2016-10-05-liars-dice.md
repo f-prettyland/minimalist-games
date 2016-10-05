@@ -2,7 +2,7 @@
 layout: post
 title:  "Liars Dice"
 date:   2016-10-05 20:28:30 +0100
-requires: dice skill
+requires: dice
 tags: bluff
 min_p: 3
 max_p: 8
