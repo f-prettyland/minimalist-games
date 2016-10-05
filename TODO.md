@@ -5,7 +5,7 @@
 		- Sticheln
 		- Letters
 - [ ] Intro page
-	- [ ] Search
+	- [ ] Search  
 			+	[ ] Title
 			+ [ ] Tags
 	- [ ] Ordering of columns
