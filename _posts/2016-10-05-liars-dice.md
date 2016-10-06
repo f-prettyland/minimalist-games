@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Perduo / Liars Dice"
+title:  "Perudo / Liars Dice"
 date:   2016-10-05 20:28:30 +0100
-requires: dice
-tags: bluff
+requires: [dice]
+tags: [bluff]
 min_p: 3
 max_p: 8
 time: 30
@@ -31,15 +31,14 @@ To raise the bet each successive player must bid by either increasing the quanti
 When all dice are revealed ones count as wild cards, they count towards the total of what-ever number being counted. Thus the chance of rolling any number is other than ones is 1/3, not 1/6.
 
 ## Examples  
-#Counting  
+
+# Counting  
 If there were a total of 6 threes, 2 fours and 5 ones rolled in a round, the effective number of threes rolled would be 11, if the bet was on threes. Or 7 fours if the bet was on fours.
 
 # Biddding  
 The first player may bid "4 threes". The second player could then bid "5 threes" or "4 fours". They could not bid, however, "3 sixes", because neither of the values can ever drop.
 
 Note that players are not limited to just bidding the next step up either; they may increase the bid by any amount they wish. So in the above scenario, the second player could also bid "12 sixes" if they wanted to.
-
-
 
 ## Optional Rules
 
@@ -70,9 +69,9 @@ After making a bid, a player can save one or more of his dice and reveal them fo
 This rule is golden, after you get used to the normal rules, be sure to add in this for more information and interesting plays.
 
 
-## Footnotes
+[^3]:Taken examples from this [review](https://boardgamegeek.com/thread/192025/liars-dice-yes-it-has-dice-i-promise-it-doesnt-suc) and rules variations explanations from this [post](https://boardgamegeek.com/thread/185804/main-rule-variations).
+
+
+## Footnotes and References[^3]
 
 [^2]: Or depending on your ruleset, you may only immediately use then, at the beginning of the round after you just lost a die
-
-## References
-Taken examples from this [review](https://boardgamegeek.com/thread/192025/liars-dice-yes-it-has-dice-i-promise-it-doesnt-suc) and rules variations explanations from this [post](https://boardgamegeek.com/thread/185804/main-rule-variations).

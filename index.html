@@ -14,21 +14,29 @@ layout: default
     </tr>
     {% for post in site.posts %}
       <tr>
-        <td><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a></td>
+        <td>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+            {{ post.title | escape }}
+          </a>
+        </td>
         <td>{{ post.min_p | escape }}</td>
         <td>{{ post.max_p | escape }}</td>
         <td>
         {% for requirement in post.requires %}
-          {{ requirement  | escape }}
+          {{ requirement | escape }}{% if forloop.last == false %},{% endif %}
         {% endfor %}
         </td>
         <td>{{ post.time | escape }}</td>
         <td>
         {% for type in post.tags %}
-          {{ type  | escape }}
+          {{ type | escape }}{% if forloop.last == false %},{% endif %}
         {% endfor %}
         </td>
       </tr>
     {% endfor %}
   </table>
+</div>
+<br>
+<p>This is designed to be as simple as possible. </br>
+  Read "The Low Down" for any game and you should be good to go.</p>
 </div>

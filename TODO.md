@@ -1,10 +1,9 @@
 # Tasks
 ## All
-- [ ] Heading
-	+ [ ] Good components to get
-		- Sticheln
-		- Letters
 - [ ] Intro page
+	- [ ] Styles
+	  + Table centering
+	  + Bottom low down write center
 	- [ ] Search  
 		+ [ ] Title
 		+ [ ] Tags
@@ -14,11 +13,13 @@
 		- [X] Main rules
 	+ [X] Liars Dice
 		- [X] Main rules
-	+ [ ] Spyfall
-		- [ ] Main rules
+	+ [X] Spyfall
+		- [X] Main rules
 	+ [ ] Fishbowl / Monikors / Celebrities
 		- [ ] Main rules
 	+ [ ] Lap
+		- [ ] Main rules
+	+ [ ] Two Rooms and a Boom
 		- [ ] Main rules
 	+ [ ] Linko / [Staxx](https://boardgamegeek.com/boardgame/153065/linko)
 		- [ ] Main rules
@@ -43,6 +44,10 @@
 			+ Needs one deck plus 4 special cards
 	+ [ ] Pit
 		- Can you make this? 7 suits of 9 cards plus bonus ones
+- [ ] Heading
+	+ [ ] Good components to get
+		- Sticheln
+		- Letters
 - [ ] Contrived Games
 	+ [ ] Stinker
 		- [ ] Main rules

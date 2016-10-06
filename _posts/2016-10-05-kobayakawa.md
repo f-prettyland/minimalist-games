@@ -2,8 +2,8 @@
 layout: post
 title:  "Kobayakawa"
 date:   2016-10-05 20:28:30 +0100
-requires: cards coins
-tags: betting
+requires: [cards, coins]
+tags: [betting]
 min_p: 3
 max_p: 6
 time: 15
