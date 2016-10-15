@@ -35,9 +35,9 @@ ALL players vote on whether to "Accept" (black) or "Reject" (black) the mission 
 Once a Mission Team is approved, then each player on the team receives two missions cards: one "Failure" (RED) and one "Success" (BLACK).  
 
 Mission team members secretly vote on whether the mission fails or succeeds by placing face down one of the two cards, which are shuffled and then revealed. Outcome of mission is given by:  
-  + At least one Fail -> the mission fails. Mark the mission on the planner as a point for spies  
-    - Except on Mission 4, two Fail cards are required to fail it.  
-  + All Success, mark the planner appropriately  
++ At least one Fail -> the mission fails. Mark the mission on the planner as a point for spies  
+  - Except on Mission 4, two Fail cards are required to fail it.  
++ All Success, mark the planner appropriately  
 
 Shuffle together all the Mission cards (used and unused) and divide into two piles, move up the round marker, go again.  
 
@@ -52,11 +52,11 @@ Shuffle together all the Mission cards (used and unused) and divide into two pil
 
 # Missions  
 
-| # Players | Mission 1 | Mission 2 | Mission 3 | Mission 4 [NEEDS 2 FAILS] | Mission 5 |
-|-----------|-----------|-----------|-----------|---------------------------|-----------|
-| 5         | 2         | 2         | 3         | 3                         | 3         |
-| 6-7       | 2         | 3         | 3         | 4                         | 4         |
-| 8-10      | 3         | 4         | 4         | 5                         | 5         |
+| # Players | Mission 1 | Mission 2 | Mission 3 | Mission 4 [2 FAILS] | Mission 5 |
+|-----------|-----------|-----------|-----------|---------------------|-----------|
+| 5         | 2         | 2         | 3         | 3                   | 3         |
+| 6-7       | 2         | 3         | 3         | 4                   | 4         |
+| 8-10      | 3         | 4         | 4         | 5                   | 5         |
 
 ## Optional Rules  
 
