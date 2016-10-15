@@ -6,7 +6,7 @@ permalink: /about/
 
 So I like board games, like a lot, like a lot a lot. But sometimes it can be hard to know what's good to play, and how to play them, and how you can play them without owning anything.
 
-So Meatspace Games tries to compile my knowledge in one place.
+So this is a list that tries to compile my minimalist game knowledge in one place.
 
 Enjoy.
 
