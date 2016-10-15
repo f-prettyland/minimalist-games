@@ -48,8 +48,8 @@
 		- [ ] Mention bridge / doppelkopf
 	+ [ ] So Long Sucker
 		- [ ] Main rules
-	+ [ ] Resistance
-		- [ ] Main rules
+	+ [X] Resistance
+		- [X] Main rules
 	+ [ ] Skull
 		- [ ] Main rules
 	+ [ ] Secret [Seg-Fault](https://boardgamegeek.com/boardgame/188834/secret-hitler)
