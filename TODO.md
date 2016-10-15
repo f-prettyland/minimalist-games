@@ -17,8 +17,8 @@
 		- [X] Main rules
 	+ [ ] Fishbowl / Monikors / Celebrities
 		- [ ] Main rules
-	+ [ ] Lap
-		- [ ] Main rules
+	+ [X] Lap
+		- [X] Main rules
 	+ [ ] Two Rooms and a Boom
 		- [ ] Main rules
 	+ [ ] Linko / [Staxx](https://boardgamegeek.com/boardgame/153065/linko)
