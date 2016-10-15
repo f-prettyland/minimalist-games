@@ -15,10 +15,30 @@
 		- [X] Main rules
 	+ [X] Spyfall
 		- [X] Main rules
-	+ [ ] Fishbowl / Monikors / Celebrities
-		- [ ] Main rules
+	+ [X] Fishbowl / Monikors / Celebrities
+		- [X] Main rules
 	+ [X] Lap
 		- [X] Main rules
+	+ [ ] [Mirandor](http://superdupergames.org/rules/mirador.pdf)
+	+ [ ] [Super Duper Games](http://superdupergames.org/login.html)
+	+ [ ] Quartro Pare Mare [It Looks Like Sea]
+		- [ ] Main rules
+			+ MARE
+			+ MARI
+			+ MALE
+			+ MALI
+			+ MORE
+			+ MORI
+			+ MOLE
+			+ MOLI
+			+ PARE
+			+ PARI
+			+ PALE
+			+ PALI
+			+ PERO
+			+ PORI
+			+ PELO
+			+ POLI
 	+ [ ] Two Rooms and a Boom
 		- [ ] Main rules
 	+ [ ] Linko / [Staxx](https://boardgamegeek.com/boardgame/153065/linko)
@@ -28,14 +48,13 @@
 		- [ ] Mention bridge / doppelkopf
 	+ [ ] So Long Sucker
 		- [ ] Main rules
-		- [X] Optionals
 	+ [ ] Resistance
 		- [ ] Main rules
 	+ [ ] Skull
 		- [ ] Main rules
 	+ [ ] Secret [Seg-Fault](https://boardgamegeek.com/boardgame/188834/secret-hitler)
 		- [ ] Main rules
-	+ [ ] Ultimate Tic-tac-toe
+	+ [ ] [Ultimate Tic-tac-toe](https://mathwithbaddrawings.com/2013/06/16/ultimate-tic-tac-toe/)
 		- [ ] Main rules
 	+ [ ] Cash n Guns
 		- [ ] Main rules
@@ -62,4 +81,3 @@
 			+ Sticheln deck
 	+ [ ] Set
 		- [ ] Main rules
-			+ You can play Quartro
