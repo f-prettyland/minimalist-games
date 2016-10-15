@@ -58,5 +58,16 @@ Shuffle together all the Mission cards (used and unused) and divide into two pil
 | 6-7       | 2         | 3         | 3         | 4                         | 4         |
 | 8-10      | 3         | 4         | 4         | 5                         | 5         |
 
+## Optional Rules  
+
+# Merlin and the Assassin  
+Assign a special role card for each team (like Ace of BLACK and RED), BLACK special is Merlin, RED special is assassin.  
+
+At the beginning just after revealing spies, each spy sticks there thumbs up and eveyone keeps their eyes closed, except Merlin, who get to see who all the spies are.
+
+However at the end of the game, if the resistance won, the assassin gets to talk with their team then pick a player of the opposing team they believe to be Merlin. If they pick Merlin, the resitance lose instead!
+
+So Merlin has to try and communicate his knowledge to the rest of the rebels, but subtly, so that the spies don't find him.
+
 ## References  
 Rules taken and edited from [The Resistance (rules summary)](https://boardgamegeek.com/filepage/74583/rules-summary-1-page)
