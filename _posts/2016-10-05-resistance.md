@@ -42,13 +42,16 @@ Mission team members secretly vote on whether the mission fails or succeeds by p
 Shuffle together all the Mission cards (used and unused) and divide into two piles, move up the round marker, go again.  
 
 ## Fiddly Bits  
+
 # Resistance to Spies  
+
 | Players    | 5 | 6 | 7 | 8 | 9 | 10 |
 |------------|---|---|---|---|---|----|
 | Resistance | 3 | 4 | 4 | 5 | 6 | 6  |
 | Spies      | 2 | 2 | 3 | 3 | 3 | 4  |
 
 # Missions  
+
 | # Players | Mission 1 | Mission 2 | Mission 3 | Mission 4 [NEEDS 2 FAILS] | Mission 5 |
 |-----------|-----------|-----------|-----------|---------------------------|-----------|
 | 5         | 2         | 2         | 3         | 3                         | 3         |
