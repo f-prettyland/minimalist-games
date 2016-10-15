@@ -68,5 +68,8 @@ However at the end of the game, if the resistance won, the assassin gets to talk
 
 So Merlin has to try and communicate his knowledge to the rest of the rebels, but subtly, so that the spies don't find him.
 
+# Storytelling  
+The leader must simply say a sentence or two about what the mission is, and what happens when it goes through or fails. Perhaps as a team before you can decide on an overarching theme of the plan of all your missions. Just a bit of fun!
+
 ## References  
 Rules taken and edited from [The Resistance (rules summary)](https://boardgamegeek.com/filepage/74583/rules-summary-1-page)
