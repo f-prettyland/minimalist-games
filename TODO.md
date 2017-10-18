@@ -79,6 +79,8 @@
 		- [ ] Main rules
 	+ [ ] Cockroach Poker
 		- [ ] Main rules
+	+ [ ] Onitama 
+		- [ ] Main rules
 	+ [ ] Sticheln
 		- [ ] Main rules
 			+ Sticheln deck
