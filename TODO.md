@@ -19,8 +19,11 @@
 		- [X] Main rules
 	+ [X] Lap
 		- [X] Main rules
+	+ [ ] Crossline
+	+ [ ] Sprouts
+		- https://web.archive.org/web/20080913031002/http://orion.math.iastate.edu/danwell/MathNight/ppg.html
+		- [Good Game](https://web.archive.org/web/20151117155938/http://www.files.takingthefun.com/sprouts/2011clashgame1/index.html)
 	+ [ ] [Mirandor](http://superdupergames.org/rules/mirador.pdf)
-	+ [ ] [Super Duper Games](http://superdupergames.org/login.html)
 	+ [ ] Quartro Pare Mare [It Looks Like Sea]
 		- [ ] Main rules
 			+ MARE
@@ -54,8 +57,9 @@
 		- [ ] Main rules
 	+ [ ] Secret [Seg-Fault](https://boardgamegeek.com/boardgame/188834/secret-hitler)
 		- [ ] Main rules
-	+ [ ] [Ultimate Tic-tac-toe](https://mathwithbaddrawings.com/2013/06/16/ultimate-tic-tac-toe/)
+	+ [ ] [Nested/Ultimate Tic-tac-toe](https://mathwithbaddrawings.com/2013/06/16/ultimate-tic-tac-toe/)
 		- [ ] Main rules
+	+ [ ] Quantum Tic-tac-toe
 	+ [ ] Cash n Guns
 		- [ ] Main rules
 	+ [ ] [Tichu](https://boardgamegeek.com/boardgame/215/tichu)
@@ -63,6 +67,9 @@
 			+ Needs one deck plus 4 special cards
 	+ [ ] Pit
 		- Can you make this? 7 suits of 9 cards plus bonus ones
+- [ ] Collections
+	+ [ ] [Super Duper Games](http://superdupergames.org/login.html)
+	+ [ ] [Zen Collection](http://zenseeker.net/BoardGames/PaperPenGames.htm)
 - [ ] Heading
 	+ [ ] Good components to get
 		- Sticheln

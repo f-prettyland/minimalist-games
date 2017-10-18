@@ -68,6 +68,9 @@ However at the end of the game, if the resistance won, the assassin gets to talk
 
 So Merlin has to try and communicate his knowledge to the rest of the rebels, but subtly, so that the spies don't find him.
 
+# Peeky-poo Who Are You Token  
+At the end of the 2nd, 3rd and 4th round, the player holding the token (it starts with the player to the right of the first leader) asks a player of their choice if they are a spy or not. The "approve" vote chit means yes, the "reject" means no. That is passed in secret. Then the person who was asked receives the token. You cannot receive the token twice (thus you cannot ask that person twice).
+
 # Storytelling  
 The leader must simply say a sentence or two about what the mission is, and what happens when it goes through or fails. Perhaps as a team before you can decide on an overarching theme of the plan of all your missions. Just a bit of fun!
 
